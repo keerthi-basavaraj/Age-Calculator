@@ -1,10 +1,6 @@
-# Age-Calculator
-Age Calculator built using HTML, CSS, and JavaScript
 Age Calculator
 📌 Project Overview
-
 The Age Calculator is a simple web application that calculates a user's exact age based on their date of birth. It displays the age in years, months, and days using JavaScript date functions.
-
 🚀 Features
 Calculate age instantly from date of birth
 Displays age in years, months, and days
